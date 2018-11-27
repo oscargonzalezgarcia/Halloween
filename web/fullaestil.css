@@ -1,0 +1,18 @@
+@font-face {font-family:"Friday13"; src:url("../fonts/Friday13.ttf");}
+@font-face {font-family:"JMH"; src:url("../fonts/jmh.otf");}
+@font-face {font-family:"Cry"; src:url("../fonts/cry.otf");}
+@font-face {font-family:"Aurach"; src:url("../fonts/Aurach.ttf");}
+h1 {font-family:"Friday13"; font-size:400%; margin:25px; color:orange; text-align:center;}
+body {background-image: url(../images/a.jpg);}
+article p {color:orange; font-family:"Aurach"; font-size:100%; text-align:justify; padding:0%; margin:2%}
+p {color:orange; font-family:"Aurach"; font-size:100%; text-align:center; padding:0%; margin:2%}
+li {font-family:"JMH"; display:inline; margin:5px; font-size:150%;}
+nav {text-align:center;}
+h3 {font-family:"Cry"; font-size:225%; color:orange; text-align:center; margin:15px}
+body {padding:15px;}
+a {text-decoration:none; color:rgb(241, 158, 230);}
+hr {border:3px solid rgb(241, 158, 230);}
+#names {text-align:center;}
+div {text-align:center;}
+table {margin:auto;}
+td p {text-align:center;}
